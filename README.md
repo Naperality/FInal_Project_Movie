@@ -1,2 +1,3 @@
 # FInal_Project_Movie
-Project
+Project requirements:
+pip install pandas requests pillow
